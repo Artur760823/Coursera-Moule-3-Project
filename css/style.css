@@ -50,3 +50,8 @@ body {
 img.kosher {
   width: 3%;
 }
+.navbar-toggler {
+  position: fixed;
+  right: 50px;
+  top: 50px;
+}
